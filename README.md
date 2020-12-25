@@ -1,4 +1,4 @@
-# <p align="center" > تنصيب سورس وايت بلاك
+# <p align="center" > تنصيب سورس فكتور
 # <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
 # <p align="center" > ⤈ ↫ كود التنصيب الاول مع المكاتب ↬ ⤈
 # <p align="center" > `git clone https://github.com/abbodkil1/CArlos.git && cd CArlos  && chmod +x tg && chmod +x RUNABS.sh && chmod +x ABS && ./RUNABS.sh install`
@@ -17,7 +17,7 @@
 # <p align="center" > `killall screen;cd CArlos;./ABS`
 # <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
 # <p align="center" > ⤈ ↫ كود حذف التنصيب ↬ ⤈
-# <p align="center" > `rm -rf CArlos`
+# <p align="center" > `rm -rf CArlo`
 # <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
 # <p align="center" > ⤈ ↫ كود تغيير ايدي ومعرف المطور الاساسي وتوكن البوت ↬ ⤈
 # <p align="center" > `cd CArlos;rm -rf config.lua;./ABS`
