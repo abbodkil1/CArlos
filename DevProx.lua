@@ -4039,7 +4039,7 @@ Dev_Abs(msg.chat_id_, msg.id_, 1,[[
 ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
 ⌁︙نقاطي • بيع نقاطي
 ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
-⌁︙[Source Channel](https://t.me/witblk)
+⌁︙[Source Channel](https://t.me/So_Victor)
 ]], 1, 'md')
 end
 end
@@ -8153,7 +8153,7 @@ local TXTE = "⌁︙اعدادات المجموعة ↫ ⤈\n┉ ≈ ┉ ≈ ┉
 .."⌁︙خاصية التكرار ↫ "..floodstatus.."\n"
 .."⌁︙عدد التكرار ↫ [ "..flood_m.." ]\n"
 .."⌁︙عدد السبام ↫ [ "..spam_c.." ]\n"
-.."┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉\n⌁︙[𝗧𝗘𝗔𝗠 𝗗𝗘𝗩](https://t.me/witblk)\n"
+.."┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉\n⌁︙[𝗧𝗘𝗔𝗠 𝗗𝗘𝗩](https://t.me/So_Victor)\n"
 Dev_Abs(msg.chat_id_, msg.id_, 1, TXTE, 1, 'md')
 end
 end
@@ -9117,7 +9117,7 @@ local text =  [[
 ⌁︙م5 ↫ اوامر المطورين
 ⌁︙م6 ↫ اوامر الاعضاء
 ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
-⌁︙[Source Channel](https://t.me/witblk)
+⌁︙[Source Channel](https://t.me/So_Victor)
 ]] 
 Dev_Abs(msg.chat_id_, msg.id_, 1, (help or text), 1, 'md')
 end
@@ -9178,7 +9178,7 @@ local text =  [[
 ⌁︙البوتات بالطرد
 ⌁︙البوتات بالتقييد
 ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
-⌁︙[Source Channel](https://t.me/witblk)
+⌁︙[Source Channel](https://t.me/So_Victor)
 ]]
 Dev_Abs(msg.chat_id_, msg.id_, 1, (help or text), 1, 'md')
 end
@@ -9254,7 +9254,7 @@ local text =  [[
 ⌁︙تقييد يوم + عدد الايام
 ⌁︙الغاء تقييد ↫ لالغاء التقييد بالوقت
 ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
-⌁︙[Source Channel](https://t.me/witblk)
+⌁︙[Source Channel](https://t.me/So_Victor)
 ]]
 Dev_Abs(msg.chat_id_, msg.id_, 1, (help or text), 1, 'md')
 end
@@ -9310,7 +9310,7 @@ local text =  [[
 ⌁︙تفعيل • تعطيل ↫ تنبيه التغيرات
 ⌁︙تفعيل • تعطيل ↫ الايدي بالصوره
 ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
-⌁︙[Source Channel](https://t.me/witblk)
+⌁︙[Source Channel](https://t.me/So_Victor)
 ]]
 Dev_Abs(msg.chat_id_, msg.id_, 1, (help or text), 1, 'md')
 end
@@ -9360,7 +9360,7 @@ local text =  [[
 ⌁︙المنشئين الاساسيين 
 ⌁︙حذف جميع الرتب
 ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
-⌁︙[Source Channel](https://t.me/witblk)
+⌁︙[Source Channel](https://t.me/So_Victor)
 ]]
 Dev_Abs(msg.chat_id_, msg.id_, 1, (help or text), 1, 'md')
 end
@@ -9441,7 +9441,7 @@ local text =  [[
 ⌁︙تفعيل • تعطيل ↫ البوت الخدمي
 ⌁︙تفعيل • تعطيل ↫ الاشتراك الاجباري
 ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
-⌁︙[Source Channel](https://t.me/witblk)
+⌁︙[Source Channel](https://t.me/So_Victor)
 ]]
 Dev_Abs(msg.chat_id_, msg.id_, 1, (help or text), 1, 'md')
 end end
@@ -9492,7 +9492,7 @@ if is_leader(msg) then
 if text == "تحديث السورس" or text == "تحديث سورس" then 
 Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙جاري تحديث سورس فكتور', 1, 'md') 
 os.execute('rm -rf DevProx.lua') 
-os.execute('wget https://raw.githubusercontent.com/abdailrhman/WITBLK/master/DevProx.lua') 
+os.execute('wget https://github.com/abbodkil1/CArlos.git/master/DevProx.lua') 
 Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙تم التحديث الى الاصدار الجديد', 1, 'md') 
 dofile('DevProx.lua') 
 io.popen("rm -rf ~/.telegram-cli/data/audio/*")
@@ -9599,7 +9599,7 @@ Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙لم يتم تعيين قناة الا�
 end end end end
 --     Source DevProx     --
 if text and text:match("^القناة$") or text and text:match("^قناة السورس$") or text and text:match("^قنات السورس$") then
-Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙Channel ↬ @witblk', 1, 'html')    
+Dev_Abs(msg.chat_id_, msg.id_, 1, '⌁︙Channel ↬ @So_Victor', 1, 'html')    
 end 
 --     Source DevProx     --
 if is_leader(msg) then 
