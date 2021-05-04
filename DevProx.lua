@@ -4199,11 +4199,11 @@ end
 if text:match("^السورس$") or text:match("^سورس$") then 
 local text =  [[
 ┌─────── CR ───────┐
-⋄︙[𝘸𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘴𝘰𝘶𝘳𝘤𝘦 𝗐𝗂𝗍 𝖻𝗅𝗄](http://t.me/So_Victor)
+⋄︙[𝘸𝘦𝘭𝘤𝘰𝘮𝘦 𝘵𝘰 𝘴𝘰𝘶𝘳𝘤𝘦 Victor](http://t.me/So_Victor)
     ┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ⋄︙[𝘪𝘯𝘧𝘰𝘳𝘮𝘢𝘵𝘪𝘰𝘯](http://t.me/FilesVictor)
     ┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-⋄︙[𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳](http://t.me/cbcccc)
+⋄︙[𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳](http://t.me/DXXX_X)
     ┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
 └───────CR───────┘
